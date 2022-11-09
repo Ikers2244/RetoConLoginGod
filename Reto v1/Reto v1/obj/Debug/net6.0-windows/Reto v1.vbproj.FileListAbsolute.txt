@@ -1,0 +1,55 @@
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.vbproj.AssemblyReference.cache
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto_v1.FormTpv.resources
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto_v1.FormArticulos.resources
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto_v1.FormEmpleados.resources
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto_v1.FormPedidos.resources
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto_v1.Resources.resources
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.vbproj.GenerateResource.cache
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.AssemblyInfoInputs.cache
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.AssemblyInfo.vb
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.vbproj.CoreCompileInputs.cache
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\bin\Debug\net6.0-windows\Reto v1.exe
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\bin\Debug\net6.0-windows\Reto v1.deps.json
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\bin\Debug\net6.0-windows\Reto v1.runtimeconfig.json
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\bin\Debug\net6.0-windows\Reto v1.dll
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\bin\Debug\net6.0-windows\Reto v1.pdb
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.vbproj.CopyComplete
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.dll
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\refint\Reto v1.dll
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.pdb
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.genruntimeconfig.cache
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\obj\Debug\net6.0-windows\ref\Reto v1.dll
+C:\Users\ikerm\source\repos\Reto v1\Reto v1\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\Reto v1.exe
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\Reto v1.deps.json
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\Reto v1.runtimeconfig.json
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\Reto v1.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\Reto v1.pdb
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.vbproj.AssemblyReference.cache
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto_v1.FormArticulos.resources
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto_v1.FormEmpleados.resources
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto_v1.FormPedidos.resources
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto_v1.Resources.resources
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.vbproj.GenerateResource.cache
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.AssemblyInfoInputs.cache
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.AssemblyInfo.vb
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.vbproj.CoreCompileInputs.cache
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.vbproj.CopyComplete
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\refint\Reto v1.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.pdb
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto v1.genruntimeconfig.cache
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\ref\Reto v1.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto_v1.FormTpv.resources
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\obj\Debug\net6.0-windows\Reto_v1.Login.resources
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ikerm\source\repos\PruebaReto-main\Reto v1\Reto v1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
